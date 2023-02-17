@@ -2,6 +2,7 @@
 const BACKEND_URL = "https://backend-locapic.vercel.app/";
 
 // Insert the frontend URL given by Vercel in this variable
-// const FRONTEND_URL = ;
+const FRONTEND_URL =
+  "https://expo.dev/@mathildedcrsbllmy/locapic-part4?serviceType=classic&distribution=expo-go";
 
-module.exports = { BACKEND_URL /*FRONTEND_URL*/ }; // Do not edit/remove this line
+module.exports = { BACKEND_URL, FRONTEND_URL }; // Do not edit/remove this line
